@@ -1,0 +1,139 @@
+{
+  "generated_utc": "2026-10-25 09:07:52",
+  "source": "NASA GSFC Five Millennium Canon of Solar/Lunar Eclipses (Espenak & Meeus), catalog pages",
+  "note": "Pages are the publicly served HTML catalog tables; verify rows count ~200-260 per century.",
+  "pages": [
+    {
+      "file": "pages/SE-0699--0600.html",
+      "url": "https://eclipse.gsfc.nasa.gov/SEcat5/SE-0699--0600.html",
+      "bytes": 113188,
+      "sha256": "8e1a892301e6fedb45b79015bd7d5acab690ec3870f121d45d5a4dd2f40977d1",
+      "rows": 253,
+      "rows_outside_range": 0,
+      "year_min": -699,
+      "year_max": -600,
+      "plausible": true
+    },
+    {
+      "file": "pages/LE-0699--0600.html",
+      "url": "https://eclipse.gsfc.nasa.gov/LEcat5/LE-0699--0600.html",
+      "bytes": 83818,
+      "sha256": "b423db984e3ab409e413145424244460644665caf5c5dd503435324f5e92816a",
+      "rows": 253,
+      "rows_outside_range": 0,
+      "year_min": -699,
+      "year_max": -600,
+      "plausible": true
+    },
+    {
+      "file": "pages/SE-0599--0500.html",
+      "url": "https://eclipse.gsfc.nasa.gov/SEcat5/SE-0599--0500.html",
+      "bytes": 113956,
+      "sha256": "fbfe378c2a5b5c30be04886c81a45fec62d2b5708e7bdd9db44d86c5b6106679",
+      "rows": 255,
+      "rows_outside_range": 0,
+      "year_min": -599,
+      "year_max": -500,
+      "plausible": true
+    },
+    {
+      "file": "pages/LE-0599--0500.html",
+      "url": "https://eclipse.gsfc.nasa.gov/LEcat5/LE-0599--0500.html",
+      "bytes": 84384,
+      "sha256": "2dbd70dc78e3ee56236493dc27c941030d1e550ced00920d5c21a40e2112259f",
+      "rows": 255,
+      "rows_outside_range": 0,
+      "year_min": -599,
+      "year_max": -500,
+      "plausible": true
+    },
+    {
+      "file": "pages/SE-0499--0400.html",
+      "url": "https://eclipse.gsfc.nasa.gov/SEcat5/SE-0499--0400.html",
+      "bytes": 109651,
+      "sha256": "d3737bf221b0c354e517d57390ee0a6692843f8ff5feef20aa2c094d0f8bc101",
+      "rows": 241,
+      "rows_outside_range": 0,
+      "year_min": -499,
+      "year_max": -400,
+      "plausible": true
+    },
+    {
+      "file": "pages/LE-0499--0400.html",
+      "url": "https://eclipse.gsfc.nasa.gov/LEcat5/LE-0499--0400.html",
+      "bytes": 81611,
+      "sha256": "e8aa7f658681fac50fc4442a6b8975e6911c5e8a74e95549dfa580d3ffb1cc9b",
+      "rows": 242,
+      "rows_outside_range": 0,
+      "year_min": -499,
+      "year_max": -400,
+      "plausible": true
+    },
+    {
+      "file": "pages/SE-0399--0300.html",
+      "url": "https://eclipse.gsfc.nasa.gov/SEcat5/SE-0399--0300.html",
+      "bytes": 103986,
+      "sha256": "643b021510e0d566e15ded0700ff3a46d2dd3191d7f736953edd4fc64be763db",
+      "rows": 225,
+      "rows_outside_range": 0,
+      "year_min": -399,
+      "year_max": -300,
+      "plausible": true
+    },
+    {
+      "file": "pages/LE-0399--0300.html",
+      "url": "https://eclipse.gsfc.nasa.gov/LEcat5/LE-0399--0300.html",
+      "bytes": 78586,
+      "sha256": "acb7e0a003f67b673965d54d08094ad854a72d72e17fbafdcb3e9264df626282",
+      "rows": 229,
+      "rows_outside_range": 0,
+      "year_min": -399,
+      "year_max": -300,
+      "plausible": true
+    },
+    {
+      "file": "pages/SE1701-1800.html",
+      "url": "https://eclipse.gsfc.nasa.gov/SEcat5/SE1701-1800.html",
+      "bytes": 111669,
+      "sha256": "7441b8551f0e9aa133485e75416954f4f7ad2da2b202a3066f2344f8bd7e5998",
+      "rows": 251,
+      "rows_outside_range": 0,
+      "year_min": 1701,
+      "year_max": 1800,
+      "plausible": true
+    },
+    {
+      "file": "pages/LE1701-1800.html",
+      "url": "https://eclipse.gsfc.nasa.gov/LEcat5/LE1701-1800.html",
+      "bytes": 83722,
+      "sha256": "1e935371272e99e2cdc2b12dadb43e72a5893aaf7781423c9a088643e4a20a29",
+      "rows": 256,
+      "rows_outside_range": 0,
+      "year_min": 1701,
+      "year_max": 1800,
+      "plausible": true
+    },
+    {
+      "file": "pages/SE1801-1900.html",
+      "url": "https://eclipse.gsfc.nasa.gov/SEcat5/SE1801-1900.html",
+      "bytes": 109015,
+      "sha256": "fad2174dd56b9c663db73975a83bedc1136a4bb3a79248f6ff0fcab9f51a848f",
+      "rows": 242,
+      "rows_outside_range": 0,
+      "year_min": 1801,
+      "year_max": 1900,
+      "plausible": true
+    },
+    {
+      "file": "pages/LE1801-1900.html",
+      "url": "https://eclipse.gsfc.nasa.gov/LEcat5/LE1801-1900.html",
+      "bytes": 82260,
+      "sha256": "56be857a3c5c7088d2cc8f6370684ebabc61bb97b3209ee13602c9f1173cce34",
+      "rows": 249,
+      "rows_outside_range": 0,
+      "year_min": 1801,
+      "year_max": 1900,
+      "plausible": true
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "generated_utc": "2026-10-25 09:11:57",
+  "source": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8",
+  "license": "Underlying text: public domain (後黎朝 1479/1665/1697 official chronicle; page tagged {{PD-old}}). Wikisource transcription/corrections: CC BY-SA 4.0 — cite zh.wikisource.org and keep revision ids.",
+  "text_quality_tag": "Wikisource marks the work {{Textquality|50%}} (incomplete proofreading); treat as OCR-grade.",
+  "pages": [
+    {
+      "卷": "卷首",
+      "title": "大越史記全書/卷首",
+      "revid": 5438794,
+      "timestamp": "2026-05-22T16:59:43Z",
+      "wikitext_chars": 14243,
+      "text_chars": 13993,
+      "sha256_text": "363d9dd798dfc7c66f47ddac5252b4208ddfd64cc8f90ab8a193a54f34b4c7bd",
+      "keywords": {
+        "SE 日食": 0,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 0
+      }
+    },
+    {
+      "卷": "外紀卷之一",
+      "title": "大越史記全書/外紀卷之一",
+      "revid": 2770143,
+      "timestamp": "2026-04-26T13:40:44Z",
+      "wikitext_chars": 4918,
+      "text_chars": 4198,
+      "sha256_text": "4d9b9c22f2b4865f6133d9d94727272e6ac08d1e2ba06235fb24d82fbe7de90d",
+      "keywords": {
+        "SE 日食": 0,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 0
+      }
+    },
+    {
+      "卷": "外紀卷之二",
+      "title": "大越史記全書/外紀卷之二",
+      "revid": 2911530,
+      "timestamp": "2026-04-28T15:44:57Z",
+      "wikitext_chars": 8715,
+      "text_chars": 6676,
+      "sha256_text": "4896ef14a34ebb7d79c431ceb70cfc34257c6225621f1352d91f7b2751f1cca9",
+      "keywords": {
+        "SE 日食": 20,
+        "LE 月食": 1,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 10
+      }
+    },
+    {
+      "卷": "外紀卷之三",
+      "title": "大越史記全書/外紀卷之三",
+      "revid": 3504815,
+      "timestamp": "2026-05-06T04:20:12Z",
+      "wikitext_chars": 5467,
+      "text_chars": 3924,
+      "sha256_text": "63d9745b8cde6a8d3d7090b95dd8ad3f11361a8835fc49d20933a768564ad898",
+      "keywords": {
+        "SE 日食": 1,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 0
+      }
+    },
+    {
+      "卷": "外紀卷之四",
+      "title": "大越史記全書/外紀卷之四",
+      "revid": 1478070,
+      "timestamp": "2018-06-08T14:52:07Z",
+      "wikitext_chars": 10095,
+      "text_chars": 7820,
+      "sha256_text": "5ff3efb7006e984403cc4625c8430eec0958ade52baffedb1be0586e41f82c17",
+      "keywords": {
+        "SE 日食": 1,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 0
+      }
+    },
+    {
+      "卷": "外紀卷之五",
+      "title": "大越史記全書/外紀卷之五",
+      "revid": 5978257,
+      "timestamp": "2026-05-31T19:57:05Z",
+      "wikitext_chars": 11304,
+      "text_chars": 8983,
+      "sha256_text": "4be59590516718295a7a16cc5fe7870f1daa8be3393886bfdcffe39267801d83",
+      "keywords": {
+        "SE 日食": 0,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 0
+      }
+    },
+    {
+      "卷": "本紀卷之一",
+      "title": "大越史記全書/本紀卷之一",
+      "revid": 7908123,
+      "timestamp": "2026-07-14T06:21:55Z",
+      "wikitext_chars": 15197,
+      "text_chars": 12837,
+      "sha256_text": "f45b9846ee43472da875ee6c58977bcabe3b4d0d34452704c851ccb9e270ece0",
+      "keywords": {
+        "SE 日食": 3,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 1
+      }
+    },
+    {
+      "卷": "本紀卷之二",
+      "title": "大越史記全書/本紀卷之二",
+      "revid": 7909168,
+      "timestamp": "2026-07-21T07:17:04Z",
+      "wikitext_chars": 16813,
+      "text_chars": 14721,
+      "sha256_text": "61390b64eebce1a729ad56d88dd559c37b92f535790441e56116cdb393ff2de1",
+      "keywords": {
+        "SE 日食": 2,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 0
+      }
+    },
+    {
+      "卷": "本紀卷之三",
+      "title": "大越史記全書/本紀卷之三",
+      "revid": 2542483,
+      "timestamp": "2025-03-25T20:06:13Z",
+      "wikitext_chars": 19021,
+      "text_chars": 15127,
+      "sha256_text": "ee43362f297eca3f3f61576d340c90981a6d442238b4a34d4b3daf412d3fd7a8",
+      "keywords": {
+        "SE 日食": 1,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 1,
+        "VD 太白晝見": 1,
+        "彗/孛/流星": 3
+      }
+    },
+    {
+      "卷": "本紀卷之四",
+      "title": "大越史記全書/本紀卷之四",
+      "revid": 414027,
+      "timestamp": "2014-08-02T16:17:26Z",
+      "wikitext_chars": 15569,
+      "text_chars": 12910,
+      "sha256_text": "8a63f5d1199da5238aa4ce58b246afa0af11dc1102bc43b57083a80041603ef1",
+      "keywords": {
+        "SE 日食": 3,
+        "LE 月食": 1,
+        "PL 行星犯": 3,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 4
+      }
+    },
+    {
+      "卷": "本紀卷之五",
+      "title": "大越史記全書/本紀卷之五",
+      "revid": 2060893,
+      "timestamp": "2021-07-18T16:09:26Z",
+      "wikitext_chars": 27883,
+      "text_chars": 23603,
+      "sha256_text": "3e6ab91a0953ff0e6b7d5ef3d9eb52bc523f4b6397d18e95366224587a038c81",
+      "keywords": {
+        "SE 日食": 9,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 5
+      }
+    },
+    {
+      "卷": "本紀卷之六",
+      "title": "大越史記全書/本紀卷之六",
+      "revid": 2294027,
+      "timestamp": "2023-06-08T19:27:28Z",
+      "wikitext_chars": 21850,
+      "text_chars": 18786,
+      "sha256_text": "4b421334c6643e3d931643c2f89cf744c71fb80c0e6a7e3d7d3ce4dc8a42ad79",
+      "keywords": {
+        "SE 日食": 0,
+        "LE 月食": 1,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 4
+      }
+    },
+    {
+      "卷": "本紀卷之七",
+      "title": "大越史記全書/本紀卷之七",
+      "revid": 2081344,
+      "timestamp": "2021-10-08T12:55:39Z",
+      "wikitext_chars": 20533,
+      "text_chars": 18520,
+      "sha256_text": "c201f26b8b15a7084e06882ca8217059619d717163b1c69c17131e818c6a3c46",
+      "keywords": {
+        "SE 日食": 8,
+        "LE 月食": 0,
+        "PL 行星犯": 1,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 4
+      }
+    },
+    {
+      "卷": "本紀卷之八",
+      "title": "大越史記全書/本紀卷之八",
+      "revid": 1567638,
+      "timestamp": "2019-06-01T09:36:00Z",
+      "wikitext_chars": 21472,
+      "text_chars": 20356,
+      "sha256_text": "622eea90fe6845f682a591b615f52a37186bec7b2e62584c9a7b279a0ce11f16",
+      "keywords": {
+        "SE 日食": 0,
+        "LE 月食": 1,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 1
+      }
+    },
+    {
+      "卷": "本紀卷之九",
+      "title": "大越史記全書/本紀卷之九",
+      "revid": 803327,
+      "timestamp": "2016-12-05T01:58:19Z",
+      "wikitext_chars": 10941,
+      "text_chars": 10210,
+      "sha256_text": "d53ae8b602e062ddf333404744ed81a08671a78f216b75e805122d618bd65899",
+      "keywords": {
+        "SE 日食": 0,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 0
+      }
+    },
+    {
+      "卷": "本紀卷之十",
+      "title": "大越史記全書/本紀卷之十",
+      "revid": 361334,
+      "timestamp": "2012-09-29T12:51:36Z",
+      "wikitext_chars": 29942,
+      "text_chars": 27479,
+      "sha256_text": "9b275b319b1458b7cf96f33e0d70248db96b6aee6e40a19b132272ac9bc65a19",
+      "keywords": {
+        "SE 日食": 1,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 1
+      }
+    },
+    {
+      "卷": "本紀卷之十一",
+      "title": "大越史記全書/本紀卷之十一",
+      "revid": 838685,
+      "timestamp": "2017-03-08T17:15:34Z",
+      "wikitext_chars": 37396,
+      "text_chars": 36589,
+      "sha256_text": "e825aaeac1bc4a6b2a21e5324632da67915320c1aa5354733fecdabe79d9bfd0",
+      "keywords": {
+        "SE 日食": 2,
+        "LE 月食": 4,
+        "PL 行星犯": 2,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 3
+      }
+    },
+    {
+      "卷": "本紀卷之十二",
+      "title": "大越史記全書/本紀卷之十二",
+      "revid": 1312918,
+      "timestamp": "2017-10-03T17:46:12Z",
+      "wikitext_chars": 30393,
+      "text_chars": 29873,
+      "sha256_text": "9b92516d9001ae6e8a0013770563bd998802bc82dc7b030d4b10947d7539136e",
+      "keywords": {
+        "SE 日食": 1,
+        "LE 月食": 1,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 0
+      }
+    },
+    {
+      "卷": "本紀卷之十三",
+      "title": "大越史記全書/本紀卷之十三",
+      "revid": 1491085,
+      "timestamp": "2018-07-22T00:49:42Z",
+      "wikitext_chars": 31700,
+      "text_chars": 31329,
+      "sha256_text": "fbb8b0dcd607fdb299e675c188e1392f60b328d4cfc05ca5e2012368632d83c0",
+      "keywords": {
+        "SE 日食": 0,
+        "LE 月食": 5,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 1
+      }
+    },
+    {
+      "卷": "本紀卷之十四",
+      "title": "大越史記全書/本紀卷之十四",
+      "revid": 1808525,
+      "timestamp": "2020-05-12T15:29:44Z",
+      "wikitext_chars": 21023,
+      "text_chars": 20502,
+      "sha256_text": "4d66577d841390e498afe885fa61138944fdfd222293f0be10ff06e8d7f3b8a4",
+      "keywords": {
+        "SE 日食": 1,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 3
+      }
+    },
+    {
+      "卷": "本紀卷之十五",
+      "title": "大越史記全書/本紀卷之十五",
+      "revid": 2127390,
+      "timestamp": "2022-04-25T14:51:08Z",
+      "wikitext_chars": 30999,
+      "text_chars": 29039,
+      "sha256_text": "15c1a4c37175efd8a96b3d1575fa5372b4b7e3657c4fa17509977fda96f1d920",
+      "keywords": {
+        "SE 日食": 2,
+        "LE 月食": 3,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 2,
+        "彗/孛/流星": 2
+      }
+    },
+    {
+      "卷": "本紀卷之十六",
+      "title": "大越史記全書/本紀卷之十六",
+      "revid": 1996505,
+      "timestamp": "2020-11-09T06:26:02Z",
+      "wikitext_chars": 14653,
+      "text_chars": 13837,
+      "sha256_text": "bbfd30e8aa6af63b64519e41c473236d2d89509775a6155a02574773ee7a68ac",
+      "keywords": {
+        "SE 日食": 0,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 1
+      }
+    },
+    {
+      "卷": "本紀卷之十七",
+      "title": "大越史記全書/本紀卷之十七",
+      "revid": 2136390,
+      "timestamp": "2022-05-17T11:47:29Z",
+      "wikitext_chars": 28700,
+      "text_chars": 27719,
+      "sha256_text": "90422aace693aa02d70de47e4b80711de71897f03862f2675f3dfcad9aad37de",
+      "keywords": {
+        "SE 日食": 4,
+        "LE 月食": 6,
+        "PL 行星犯": 4,
+        "MO 月犯": 2,
+        "VD 太白晝見": 1,
+        "彗/孛/流星": 11
+      }
+    },
+    {
+      "卷": "本紀卷之十八",
+      "title": "大越史記全書/本紀卷之十八",
+      "revid": 2673051,
+      "timestamp": "2026-03-13T01:10:56Z",
+      "wikitext_chars": 27230,
+      "text_chars": 25611,
+      "sha256_text": "ed3da7dd07a56b5245f177243ffe79dc6d2f795881d971839bb9a2428c4289fd",
+      "keywords": {
+        "SE 日食": 7,
+        "LE 月食": 12,
+        "PL 行星犯": 1,
+        "MO 月犯": 0,
+        "VD 太白晝見": 1,
+        "彗/孛/流星": 4
+      }
+    },
+    {
+      "卷": "本紀卷之十九",
+      "title": "大越史記全書/本紀卷之十九",
+      "revid": 7910515,
+      "timestamp": "2026-07-28T11:09:31Z",
+      "wikitext_chars": 17203,
+      "text_chars": 16615,
+      "sha256_text": "8423647d4fabc64d7de6f5c3a19249d4e67b441ca85009cd83b9cac7ae70076b",
+      "keywords": {
+        "SE 日食": 4,
+        "LE 月食": 2,
+        "PL 行星犯": 2,
+        "MO 月犯": 1,
+        "VD 太白晝見": 1,
+        "彗/孛/流星": 2
+      }
+    },
+    {
+      "卷": "續編卷之一",
+      "title": "大越史記全書/續編卷之一",
+      "revid": 1426651,
+      "timestamp": "2018-04-21T20:58:50Z",
+      "wikitext_chars": 13352,
+      "text_chars": 12073,
+      "sha256_text": "93bb6d571bc0be01a142c5748b15c8603be48b31ff67941a39ff2238e90618b5",
+      "keywords": {
+        "SE 日食": 6,
+        "LE 月食": 0,
+        "PL 行星犯": 0,
+        "MO 月犯": 0,
+        "VD 太白晝見": 0,
+        "彗/孛/流星": 0
+      }
+    },
+    {
+      "卷": "續編卷之二",
+      "title": "大越史記全書/續編卷之二",
+      "revid": 1426650,
+      "timestamp": "2018-04-21T20:50:08Z",
+      "wikitext_chars": 22524,
+      "text_chars": 20652,
+      "sha256_text": "8cbdeb02d07dd15f654b3c3777e86d654dcef1344443bc764d4ccd8b8c0639c5",
+      "keywords": {
+        "SE 日食": 5,
+        "LE 月食": 5,
+        "PL 行星犯": 0,
+        "MO 月犯": 1,
+        "VD 太白晝見": 1,
+        "彗/孛/流星": 0
+      }
+    },
+    {
+      "卷": "續編卷之三",
+      "title": "大越史記全書/續編卷之三",
+      "revid": 2645775,
+      "timestamp": "2026-01-30T20:09:44Z",
+      "wikitext_chars": 12686,
+      "text_chars": 12148,
+      "sha256_text": "fafcfcc5e633c3bb1844f5b9e97dc1ab56877e3ed86d9fd059cec0f1585395eb",
+      "keywords": {
+        "SE 日食": 1,
+        "LE 月食": 2,
+        "PL 行星犯": 2,
+        "MO 月犯": 1,
+        "VD 太白晝見": 1,
+        "彗/孛/流星": 0
+      }
+    },
+    {
+      "卷": "續編卷之四",
+      "title": "大越史記全書/續編卷之四",
+      "revid": 2609037,
+      "timestamp": "2025-10-23T02:05:09Z",
+      "wikitext_chars": 26446,
+      "text_chars": 25214,
+      "sha256_text": "899e5249fc3c726587da7e8f95b7715d29ebc5be37f022a9ea5cdc2dcaa8d1be",
+      "keywords": {
+        "SE 日食": 4,
+        "LE 月食": 2,
+        "PL 行星犯": 2,
+        "MO 月犯": 0,
+        "VD 太白晝見": 1,
+        "彗/孛/流星": 1
+      }
+    },
+    {
+      "卷": "續編卷之五",
+      "title": "大越史記全書/續編卷之五",
+      "revid": 2012931,
+      "timestamp": "2021-01-09T17:34:06Z",
+      "wikitext_chars": 30404,
+      "text_chars": 29344,
+      "sha256_text": "32dbd089a165c35ad971c61901e66e45846142a46b8d314ba66114cb72176b22",
+      "keywords": {
+        "SE 日食": 4,
+        "LE 月食": 6,
+        "PL 行星犯": 0,
+        "MO 月犯": 2,
+        "VD 太白晝見": 4,
+        "彗/孛/流星": 3
+      }
+    }
+  ],
+  "totals": {
+    "text_chars": 550688,
+    "keywords": {
+      "SE 日食": 90,
+      "LE 月食": 52,
+      "PL 行星犯": 17,
+      "MO 月犯": 8,
+      "VD 太白晝見": 13,
+      "彗/孛/流星": 64
+    },
+    "daylevel": {
+      "SE 干支+朔+日食（干支定日）": 27,
+      "SE 月+朔+日食（无干支，朔日可由历表定）": 33,
+      "SE 晦+日食（外紀转录汉代记录，用汉历）": 20,
+      "SE 既（全食）": 2,
+      "LE 望+月食": 23,
+      "LE 十五/十六日+月食": 14,
+      "LE 干支+月食": 16
+    }
+  }
+}
