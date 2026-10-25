@@ -1,0 +1,13 @@
+[    0.0s] start: ['E1', 'E2']
+[   46.3s] E1[grpo] analytic-boundary agreement: all 91.8%, |c-c*|>0.03: 95.3%; mean boundary shift in c: -0.040
+[   46.3s] csv -> E1_outcome_phase_grpo.csv (600 rows)
+[   92.8s] E1[drgrpo] analytic-boundary agreement: all 99.5%, |c-c*|>0.03: 100.0%; mean boundary shift in c: -0.000
+[   92.8s] csv -> E1_outcome_phase_drgrpo.csv (600 rows)
+[   93.7s] figure -> S1_outcome_phase_diagram.png/.pdf
+[   93.7s] E1 done in 93.7s
+[  146.7s] csv -> E2_audit_phase_grpo.csv (550 rows)
+[  146.7s] E2[grpo] q* agreement: all 92.5%; |q-q*|>0.05: 96.4%
+[  196.0s] csv -> E2_audit_phase_drgrpo.csv (550 rows)
+[  196.0s] E2[drgrpo] q* agreement: all 99.8%; |q-q*|>0.05: 100.0%
+[  196.6s] figure -> S2_audit_phase_diagram.png/.pdf
+[  196.6s] E2 done in 102.9s

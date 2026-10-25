@@ -1,0 +1,14 @@
+PASS outcome lock-in to stamping when c>c*: mean P(C)=0.005 < 0.05
+PASS outcome lock-in to checking when c<c*: mean P(C)=0.976 > 0.95
+PASS q*(VD-like pi=.96,a=.8,c=.05)=0.262 matches record 0.26
+PASS RA well above q* (+0.2): P(C)=0.962 > 0.9
+PASS RA well below q* (-0.2): P(C)=0.004 < 0.1
+INFO near boundary (q*+0.12): median P(C)=0.874, 0% of seeds locked into stamping (stochastic lock-in near the phase edge)
+PASS RA near boundary: median seed drifts toward checking (slow, small reward gap)
+PASS homogeneous groups -> zero logit change (absorbing state)
+PASS REINFORCE+EMA baseline keeps moving where GRPO would not
+PASS GRPO advantage of a correct-but-costly check in an all-correct group: c=0.001 -> -2.638 ≈ -sqrt(7)=-2.646
+PASS GRPO advantage of a correct-but-costly check in an all-correct group: c=0.1 -> -2.646 ≈ -sqrt(7)=-2.646
+PASS RA expected rewards S1=0.600 C=0.820
+PASS abstention stays rare when r_a=0: P(A)=0.004 < 0.05
+selftest OK

@@ -1,0 +1,13 @@
+[    0.0s] start: ['E6', 'E7', 'E8']
+/workspace/cloud_s34/sim/run_experiments.py:386: RuntimeWarning: All-NaN slice encountered
+  rows.append({"p0": p0, "median_steps_to_P(C)<0.5": np.nanmedian(t_half), "frac_decayed_by_3000": (~np.isnan(t_half)).mean(),
+[    9.0s] figure -> S6_hysteresis.png/.pdf
+[    9.4s] csv -> E6_hysteresis.csv (5 rows)
+[    9.4s] csv -> E6_inoculation.csv (1 rows)
+[    9.4s] E6 done in 9.4s
+[   38.7s] csv -> E7_abstention.csv (357 rows)
+[   39.3s] figure -> S7_abstention_trap.png/.pdf
+[   39.3s] E7 done in 29.9s
+[   45.0s] figure -> S8_estimators.png/.pdf
+[   45.0s] csv -> E8_estimators.csv (5 rows)
+[   45.0s] E8 done in 5.7s

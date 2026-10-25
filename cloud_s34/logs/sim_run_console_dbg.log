@@ -1,0 +1,21 @@
+[    0.0s] start: ['E3', 'E4', 'E6', 'E8', 'E9']
+[   19.4s] csv -> E3_token_matched.csv (72 rows)
+[   20.6s] figure -> S3_token_matched_pareto.png/.pdf
+[   20.6s] E3 done in 20.6s
+[   27.7s] figure -> S4_adaptive_controller.png/.pdf
+[   27.7s] csv -> E4_adaptive.csv (10 rows)
+[   27.7s] E4 done in 7.0s
+/workspace/cloud_s34/sim/run_experiments.py:400: RuntimeWarning: All-NaN slice encountered
+  rows.append({"p0": p0, "median_steps_to_P(C)<0.5": np.nanmedian(t_half), "frac_decayed_by_3000": (~np.isnan(t_half)).mean(),
+[   34.9s] figure -> S6_hysteresis.png/.pdf
+[   36.1s] csv -> E6_hysteresis.csv (5 rows)
+[   36.1s] csv -> E6_inoculation.csv (3 rows)
+[   36.1s] E6 done in 8.5s
+[   46.8s] figure -> S8_estimators.png/.pdf
+[   46.8s] csv -> E8_estimators.csv (5 rows)
+[   46.8s] E8 done in 10.7s
+[   56.6s] E9[grpo] steps to P(C)<0.1 vs c: {0.002: 21, 0.005: 21, 0.01: 21, 0.02: 21, 0.05: 20, 0.1: 20, 0.2: 19}
+[   66.3s] E9[drgrpo] steps to P(C)<0.1 vs c: {0.002: 648, 0.005: 610, 0.01: 559, 0.02: 472, 0.05: 336, 0.1: 225, 0.2: 133}
+[   66.9s] figure -> S9_cost_invariance.png/.pdf
+[   66.9s] csv -> E9_cost_invariance.csv (14 rows)
+[   66.9s] E9 done in 20.1s

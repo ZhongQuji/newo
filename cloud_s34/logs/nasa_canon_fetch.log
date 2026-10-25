@@ -1,0 +1,26 @@
+fetched     SE-0699--0600.html   113188 bytes   0.09s
+  OK  rows=253 years=-699..-600 outside=0
+fetched     LE-0699--0600.html    83818 bytes   0.20s
+  OK  rows=253 years=-699..-600 outside=0
+fetched     SE-0599--0500.html   113956 bytes   0.09s
+  OK  rows=255 years=-599..-500 outside=0
+fetched     LE-0599--0500.html    84384 bytes   0.14s
+  OK  rows=255 years=-599..-500 outside=0
+fetched     SE-0499--0400.html   109651 bytes   0.07s
+  OK  rows=241 years=-499..-400 outside=0
+fetched     LE-0499--0400.html    81611 bytes   0.09s
+  OK  rows=242 years=-499..-400 outside=0
+fetched     SE-0399--0300.html   103986 bytes   0.10s
+  OK  rows=225 years=-399..-300 outside=0
+fetched     LE-0399--0300.html    78586 bytes   0.11s
+  OK  rows=229 years=-399..-300 outside=0
+fetched       SE1701-1800.html   111669 bytes   0.13s
+  OK  rows=251 years=1701..1800 outside=0
+fetched       LE1701-1800.html    83722 bytes   0.12s
+  OK  rows=256 years=1701..1800 outside=0
+fetched       SE1801-1900.html   109015 bytes   0.09s
+  OK  rows=242 years=1801..1900 outside=0
+fetched       LE1801-1900.html    82260 bytes   0.12s
+  OK  rows=249 years=1801..1900 outside=0
+manifest -> /workspace/cloud_s34/data/nasa_canon/MANIFEST.json
+ALL PLAUSIBLE

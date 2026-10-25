@@ -1,0 +1,45 @@
+[    0.0s] start: ['E1', 'E2', 'E3', 'E4', 'E5', 'E6', 'E7', 'E8', 'E9', 'E10']
+[   45.8s] E1[grpo] analytic-boundary agreement: all 91.8%, |c-c*|>0.03: 95.3%; mean boundary shift in c: -0.040
+[   45.8s] csv -> E1_outcome_phase_grpo.csv (600 rows)
+[   91.9s] E1[drgrpo] analytic-boundary agreement: all 99.5%, |c-c*|>0.03: 100.0%; mean boundary shift in c: -0.000
+[   91.9s] csv -> E1_outcome_phase_drgrpo.csv (600 rows)
+[   92.7s] figure -> S1_outcome_phase_diagram.png/.pdf
+[   92.7s] E1 done in 92.7s
+[  142.9s] csv -> E2_audit_phase_grpo.csv (550 rows)
+[  142.9s] E2[grpo] q* agreement: all 92.5%; |q-q*|>0.05: 96.4%
+[  192.1s] csv -> E2_audit_phase_drgrpo.csv (550 rows)
+[  192.1s] E2[drgrpo] q* agreement: all 99.8%; |q-q*|>0.05: 100.0%
+[  192.6s] figure -> S2_audit_phase_diagram.png/.pdf
+[  192.6s] E2 done in 100.0s
+[  210.7s] csv -> E3_token_matched.csv (72 rows)
+[  211.7s] figure -> S3_token_matched_pareto.png/.pdf
+[  211.7s] E3 done in 19.1s
+[  218.8s] figure -> S4_adaptive_controller.png/.pdf
+[  218.8s] csv -> E4_adaptive.csv (10 rows)
+[  218.8s] E4 done in 7.1s
+[  229.3s] figure -> S5_data_mixture.png/.pdf
+[  229.3s] csv -> E5_data_mixture.csv (72 rows)
+[  229.3s] E5 done in 10.6s
+/workspace/cloud_s34/sim/run_experiments.py:407: RuntimeWarning: All-NaN slice encountered
+  rows.append({"p0": p0, "median_steps_to_P(C)<0.5": np.nanmedian(t_half), "frac_decayed_by_3000": (~np.isnan(t_half)).mean(),
+[  236.7s] figure -> S6_hysteresis.png/.pdf
+[  238.0s] csv -> E6_hysteresis.csv (5 rows)
+[  238.0s] csv -> E6_inoculation.csv (3 rows)
+[  238.0s] E6 done in 8.6s
+[  264.1s] csv -> E7_abstention.csv (357 rows)
+[  264.8s] figure -> S7_abstention_trap.png/.pdf
+[  264.8s] E7 done in 26.8s
+[  275.8s] figure -> S8_estimators.png/.pdf
+[  275.8s] csv -> E8_estimators.csv (5 rows)
+[  275.8s] E8 done in 11.0s
+[  285.8s] E9[grpo] steps to P(C)<0.1 vs c: {0.002: 21, 0.005: 21, 0.01: 21, 0.02: 21, 0.05: 20, 0.1: 20, 0.2: 19}
+[  295.5s] E9[drgrpo] steps to P(C)<0.1 vs c: {0.002: 648, 0.005: 610, 0.01: 559, 0.02: 472, 0.05: 336, 0.1: 225, 0.2: 133}
+[  296.0s] figure -> S9_cost_invariance.png/.pdf
+[  296.0s] csv -> E9_cost_invariance.csv (14 rows)
+[  296.0s] E9 done in 20.2s
+[  297.7s] E10[grpo] final P(C) vs kappa at q=0.1: {0.5: np.float64(0.008), 1: np.float64(0.009), 2: np.float64(0.01), 5: np.float64(0.011), 10: np.float64(0.011), 20: np.float64(0.011)}
+[  299.3s] E10[drgrpo] final P(C) vs kappa at q=0.1: {0.5: np.float64(0.439), 1: np.float64(0.859), 2: np.float64(0.961), 5: np.float64(0.989), 10: np.float64(0.995), 20: np.float64(0.997)}
+[  299.7s] figure -> S10_becker_fine.png/.pdf
+[  299.7s] csv -> E10_becker_fine.csv (12 rows)
+[  299.7s] E10 done in 3.7s
+[  299.7s] RESULTS.md -> /workspace/cloud_s34/sim/results/RESULTS.md
