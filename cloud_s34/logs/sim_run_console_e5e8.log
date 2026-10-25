@@ -1,0 +1,22 @@
+[    0.0s] start: ['E5', 'E6', 'E7', 'E8']
+[    4.4s] figure -> S5_data_mixture.png/.pdf
+[    4.4s] csv -> E5_data_mixture.csv (27 rows)
+[    4.4s] E5 done in 4.4s
+/workspace/cloud_s34/sim/run_experiments.py:386: RuntimeWarning: All-NaN slice encountered
+  rows.append({"p0": p0, "median_steps_to_P(C)<0.5": np.nanmedian(t_half), "frac_decayed_by_3000": (~np.isnan(t_half)).mean(),
+[   11.6s] figure -> S6_hysteresis.png/.pdf
+Traceback (most recent call last):
+  File "/workspace/cloud_s34/sim/run_experiments.py", line 495, in <module>
+    main(sys.argv[1:])
+  File "/workspace/cloud_s34/sim/run_experiments.py", line 482, in main
+    ALL[key]()
+  File "/workspace/cloud_s34/sim/run_experiments.py", line 405, in e6_hysteresis
+    write_csv("E6_hysteresis", rows + [{"p0": "inoculation RA->outcome", **{k: v for k, v in rows2.items()}}])
+  File "/workspace/cloud_s34/sim/run_experiments.py", line 81, in write_csv
+    w.writerows(rows)
+  File "/usr/lib/python3.12/csv.py", line 167, in writerows
+    return self.writer.writerows(map(self._dict_to_list, rowdicts))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/csv.py", line 159, in _dict_to_list
+    raise ValueError("dict contains fields not in fieldnames: "
+ValueError: dict contains fields not in fieldnames: 'P(C)_500_steps_after_switch', 'frac_seeds_below_0.5_at_end', 'P(C)_100_steps_after_switch', 'P(C)_after_RA150'
